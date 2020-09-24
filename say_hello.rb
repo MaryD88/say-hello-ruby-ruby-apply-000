@@ -1,5 +1,7 @@
 
-say_hello("Gabriela")
+def ("Gabriela")
 
 
-"Hello Gabriela!"
+puts "Hello Gabriela!"
+
+end
