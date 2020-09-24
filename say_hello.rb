@@ -1,7 +1,1 @@
-
-def ("Gabriela")
-
-
-puts "Hello Gabriela!"
-
-end
+def say_hello(name="Gabriela")
