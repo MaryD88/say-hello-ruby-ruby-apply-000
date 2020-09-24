@@ -1,3 +1,3 @@
-def say_hello("Gaela")bri
+def say_hello(name)
   puts "Hello Gabriela!"
 end
